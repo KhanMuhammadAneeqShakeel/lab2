@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "cloud_lab_02": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7258",
+      "launchBrowser": false
+    }
+  }
+}
